@@ -1,7 +1,7 @@
 criaCartao(
-    'Física',
-    ' Como funciona a Primeira Lei de Newton, também conhecida como Lei da Inércia?',
-    ' Primeira Lei de Newton, ou Lei da Inércia, afirma que um objeto em repouso permanecerá em repouso e um objeto em movimento continuará em movimento com velocidade constante em linha reta, a menos que uma força externa seja aplicada sobre ele. Em outras palavras, a tendência natural dos objetos é manter seu estado de movimento, seja ele de repouso ou de movimento uniforme, até que uma força atue sobre eles para mudar esse estado'
+    'Lingua inglesa',
+    ' Como se diz ola em ingles',
+    'hello (releou) '
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Gostar em ingles é Like (laike)'
+    'Física',
+    ' Como funciona a Primeira Lei de Newton, também conhecida como Lei da Inércia?',
+    'Primeira Lei de Newton, ou Lei da Inércia, afirma que um objeto em repouso permanecerá em repouso e um objeto em movimento continuará em movimento com velocidade constante em linha reta, a menos que uma força externa seja aplicada sobre ele. Em outras palavras, a tendência natural dos objetos é manter seu estado de movimento, seja ele de repouso ou de movimento uniforme, até que uma força atue sobre eles para mudar esse estado'
 )
